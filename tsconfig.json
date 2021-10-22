@@ -1,3 +1,9 @@
 {
-  "extends": "./tsconfig/tsconfig.json"
+  // Comment out this line, and it works.
+  "extends": "./tsconfig/tsconfig.json",
+  //
+  //"compilerOptions": {
+  //  "moduleResolution": "node"
+  //}
+  //
 }
